@@ -1,3 +1,4 @@
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 ## HTML, CSS, and Javascript for Web Developers - Johns Hopkins University | Coursera
 
 You can use the [editor on GitHub](https://github.com/MoatazGitHub/coursera_html-css-javascript-for-web-developers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
