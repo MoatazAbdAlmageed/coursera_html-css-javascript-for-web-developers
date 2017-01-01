@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## HTML, CSS, and Javascript for Web Developers - Johns Hopkins University | Coursera
 
 You can use the [editor on GitHub](https://github.com/MoatazGitHub/coursera_html-css-javascript-for-web-developers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
